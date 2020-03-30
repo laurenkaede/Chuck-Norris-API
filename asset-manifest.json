@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Chuck-Norris-API/static/css/main.f115099d.chunk.css",
+    "main.js": "/Chuck-Norris-API/static/js/main.29d4a45d.chunk.js",
+    "main.js.map": "/Chuck-Norris-API/static/js/main.29d4a45d.chunk.js.map",
+    "runtime-main.js": "/Chuck-Norris-API/static/js/runtime-main.36e3c2c9.js",
+    "runtime-main.js.map": "/Chuck-Norris-API/static/js/runtime-main.36e3c2c9.js.map",
+    "static/js/2.926f5298.chunk.js": "/Chuck-Norris-API/static/js/2.926f5298.chunk.js",
+    "static/js/2.926f5298.chunk.js.map": "/Chuck-Norris-API/static/js/2.926f5298.chunk.js.map",
+    "index.html": "/Chuck-Norris-API/index.html",
+    "precache-manifest.95940be5a17543a69e00a393a3917ae3.js": "/Chuck-Norris-API/precache-manifest.95940be5a17543a69e00a393a3917ae3.js",
+    "service-worker.js": "/Chuck-Norris-API/service-worker.js",
+    "static/css/main.f115099d.chunk.css.map": "/Chuck-Norris-API/static/css/main.f115099d.chunk.css.map",
+    "static/js/2.926f5298.chunk.js.LICENSE.txt": "/Chuck-Norris-API/static/js/2.926f5298.chunk.js.LICENSE.txt",
+    "static/media/chucknorris.png": "/Chuck-Norris-API/static/media/chucknorris.0607b2e8.png",
+    "static/media/tumbleweed.gif": "/Chuck-Norris-API/static/media/tumbleweed.44a5a282.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36e3c2c9.js",
+    "static/js/2.926f5298.chunk.js",
+    "static/css/main.f115099d.chunk.css",
+    "static/js/main.29d4a45d.chunk.js"
+  ]
+}
