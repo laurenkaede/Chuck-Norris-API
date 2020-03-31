@@ -1,13 +1,11 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 import axios from "axios";
 import ChuckImg from "./components/ChuckImg";
 
-
 class App extends React.Component {
-
   state = {
-    jokes: [],
+    jokes: "",
     loading: false
   };
 
@@ -15,27 +13,28 @@ class App extends React.Component {
     this.setState({
       loading: true
     });
-  
-    const response = await axios.get(
-      "https://api.chucknorris.io/jokes/random"
-    );
 
+    this.generateRandomJoke();
+  };
+
+  generateRandomJoke = async () => {
+    const response = await axios.get("https://api.chucknorris.io/jokes/random");
     this.setState({
       jokes: response.data.value,
       loading: false
     });
-  }
+  };
 
-  render () {
+  render() {
     return (
       <div>
         <h1> Random Chuck Norris Jokes </h1>
         <ChuckImg loading={this.state.loading} />
-        <button onClick={this.componentDidMount}>Random Joke</button>
+        <button onClick={this.generateRandomJoke}>Random Joke</button>
         <h2>{this.state.jokes}</h2>
       </div>
     );
   }
-};
+}
 
 export default App;
