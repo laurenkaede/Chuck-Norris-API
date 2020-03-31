@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52366b99bb3c83b1494ae2ee75453b84",
+    "revision": "e2c5e92393277bf66eab243ac745a64b",
     "url": "/Chuck-Norris-API/index.html"
   },
   {
-    "revision": "bc35e48f4017625a7937",
+    "revision": "3aeaced98869e5f0fcb0",
     "url": "/Chuck-Norris-API/static/css/main.f115099d.chunk.css"
   },
   {
-    "revision": "7a8e9fdbd3f5ee616907",
-    "url": "/Chuck-Norris-API/static/js/2.926f5298.chunk.js"
+    "revision": "01167aca0efddbac9370",
+    "url": "/Chuck-Norris-API/static/js/2.e15e93a4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Chuck-Norris-API/static/js/2.926f5298.chunk.js.LICENSE.txt"
+    "url": "/Chuck-Norris-API/static/js/2.e15e93a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc35e48f4017625a7937",
-    "url": "/Chuck-Norris-API/static/js/main.29d4a45d.chunk.js"
+    "revision": "3aeaced98869e5f0fcb0",
+    "url": "/Chuck-Norris-API/static/js/main.197ba819.chunk.js"
   },
   {
     "revision": "a83b5acc7db5fd32c291",
